@@ -420,6 +420,14 @@
             "email": "zulbadamz@gmail.com",
             "github": "https://github.com/Zulbadamz",
             "linkedin": "https://www.linkedin.com/in/zulbadam-batdelger-aa91851b7/"
+        },
+        {
+            "name": "Ellie Noble",
+            "photo": "ellie-noble.webp",
+            "role": "Developer",
+            "about": "AD Student with an associates in Graphic Design and a passion for for user focused designed and accesibilty. I want to build designs that bring people joy.",
+            "email": "Ellie.Noble@seattlecolleges.edu",
+            "github": "https://github.com/ellieNoble13",
         }
     ]
 }
