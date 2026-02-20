@@ -429,6 +429,15 @@
             "email": "xthsu27x@gmail.com",
             "github": "https://github.com/HJLee82",
             "linkedin": "https://www.linkedin.com/in/hyejin-lee-948966303/"
+        },
+        { 
+            "name": "Copper Wilson",
+            "photo": "Copper-Wilson.webp",
+            "role": "Student",
+            "about": "Current NSC AD BAS student",
+            "email": "",
+            "github": "https://github.com/cuwilson",
+            "linkedin": "https://www.linkedin.com/in/copper-wilson-a60314188/"
         }
     ]
 }
