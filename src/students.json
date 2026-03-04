@@ -422,6 +422,15 @@
             "linkedin": "https://www.linkedin.com/in/zulbadam-batdelger-aa91851b7/"
         },
         {
+            "name": "Eric Cashman",
+            "photo": "Eric-Cashman.webp",
+            "role": "Developer",
+            "about": "Pursuing a Bachelors in Application Development. My goals is to pursue Grad school to conduct research about data and real world implications",
+            "email": "sircashmaneric@gmail.com",
+            "github": "https://github.com/Eric-Cashman",
+            "linkedin": "https://www.linkedin.com/in/Eric-Cashman/"
+        },
+        {
             "name": "Dara Sen",
             "photo": "anon-profile-image.webp",
             "about": "Passonate about Full-Stack Development, Machine Learning and Data Science",
