@@ -422,6 +422,15 @@
             "linkedin": "https://www.linkedin.com/in/zulbadam-batdelger-aa91851b7/"
         },
         {
+            "name": "El Brewster",
+            "photo": "El-Brewster.webp",
+            "role": "Developer",
+            "about": "I love JavaScript.",
+            "email": "brewsterel3@gmail.com",
+            "github": "https://github.com/elbi3",
+            "linkedin": "https://www.linkedin.com/in/el-brewster/"
+        },
+        {
             "name": "Ellie Noble",
             "photo": "ellie-noble.webp",
             "role": "Developer",
